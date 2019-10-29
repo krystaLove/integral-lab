@@ -1,0 +1,13 @@
+/cmake-build-debug/
+/cmake-build-debug/CMakeFiles/
+/cmake-build-debug/BlackMaster.cbp
+/cmake-build-debug/BlackMaster.exe
+/cmake-build-debug/cmake_install.cmake
+/cmake-build-debug/CMakeCache.txt
+/cmake-build-debug/input.txt
+/cmake-build-debug/Makefile
+/cmake-build-debug/output.txt
+/.idea/.gitignore
+/.idea/BlackMaster.iml
+/.idea/misc.xml
+/.idea/modules.xml
